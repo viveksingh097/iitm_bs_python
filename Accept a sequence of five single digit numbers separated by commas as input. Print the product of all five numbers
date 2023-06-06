@@ -1,0 +1,7 @@
+a=str(input())
+b=int(a[0])
+c=int(a[2])
+d=int(a[4])
+e=int(a[6])
+f=int(a[8])
+print(b*c*d*e*f)
